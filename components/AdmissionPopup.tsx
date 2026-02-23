@@ -3,7 +3,7 @@ import { X } from 'lucide-react';
 import { Button } from './Button';
 
 // Google Apps Script Web App URL already set — no edits needed
-const GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbyioq7eOTsAbkZbFjhEfwr8qTGDTImZHc2zgIthAOw-iCMaoxhfDH1QxopSsT9TFKcM/exec";
+const GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbzwyXwa6P8H4s7SVXFo70b6P-ovIqnv3Cy4B2OHmTAnbib-Vz8oPE5qXnSkuNWWF4Ic/exec";
 
 interface AdmissionPopupProps {
   isOpen: boolean;
